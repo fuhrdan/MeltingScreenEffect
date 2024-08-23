@@ -1,0 +1,14 @@
+C:\Users\ksfuh\MeltingScreenEffect\obj\Debug\net8.0-windows\MeltingScreenEffect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ksfuh\MeltingScreenEffect\obj\Debug\net8.0-windows\MeltingScreenEffect.AssemblyInfoInputs.cache
+C:\Users\ksfuh\MeltingScreenEffect\obj\Debug\net8.0-windows\MeltingScreenEffect.AssemblyInfo.cs
+C:\Users\ksfuh\MeltingScreenEffect\obj\Debug\net8.0-windows\MeltingScreenEffect.csproj.CoreCompileInputs.cache
+C:\Users\ksfuh\MeltingScreenEffect\bin\Debug\net8.0-windows\MeltingScreenEffect.exe
+C:\Users\ksfuh\MeltingScreenEffect\bin\Debug\net8.0-windows\MeltingScreenEffect.deps.json
+C:\Users\ksfuh\MeltingScreenEffect\bin\Debug\net8.0-windows\MeltingScreenEffect.runtimeconfig.json
+C:\Users\ksfuh\MeltingScreenEffect\bin\Debug\net8.0-windows\MeltingScreenEffect.dll
+C:\Users\ksfuh\MeltingScreenEffect\bin\Debug\net8.0-windows\MeltingScreenEffect.pdb
+C:\Users\ksfuh\MeltingScreenEffect\obj\Debug\net8.0-windows\MeltingScreenEffect.dll
+C:\Users\ksfuh\MeltingScreenEffect\obj\Debug\net8.0-windows\refint\MeltingScreenEffect.dll
+C:\Users\ksfuh\MeltingScreenEffect\obj\Debug\net8.0-windows\MeltingScreenEffect.pdb
+C:\Users\ksfuh\MeltingScreenEffect\obj\Debug\net8.0-windows\MeltingScreenEffect.genruntimeconfig.cache
+C:\Users\ksfuh\MeltingScreenEffect\obj\Debug\net8.0-windows\ref\MeltingScreenEffect.dll
